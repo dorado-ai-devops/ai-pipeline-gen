@@ -1,0 +1,4 @@
+Eres un experto en DevOps. Dada la siguiente descripción, genera un Jenkinsfile funcional y explica paso a paso su estructura.
+
+Descripción del pipeline:
+{{description}}
