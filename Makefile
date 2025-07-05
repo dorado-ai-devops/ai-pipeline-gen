@@ -1,5 +1,5 @@
 IMAGE_NAME=ai-pipeline-gen
-VERSION=v0.1.1
+VERSION=v0.1.2
 CLUSTER_NAME=devops-ai
 REGISTRY=localhost:5000
 HELM_VALUES=../devops-ai-lab/manifests/helm-pipeline-gen/values.yaml
