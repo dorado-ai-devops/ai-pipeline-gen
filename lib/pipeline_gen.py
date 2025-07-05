@@ -12,7 +12,7 @@ def main():
     with open(args.input, "r", encoding="utf-8") as f:
         description = f.read().strip()
 
-    prompt_template = load_prompt("pipeline_gen.prompt")
+    prompt_template = load_prompt("pipeline_gen")
 
     full_prompt = prompt_template.replace("{{description}}", description)
 
