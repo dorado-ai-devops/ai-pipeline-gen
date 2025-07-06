@@ -24,6 +24,7 @@ Compatible con ejecución local, despliegue en Kubernetes, e integración vía g
 - 🇬🇧 [Documentation in English](./README_ENG.md)  
   _Technical guide for the pipeline generation microservice: usage, deployment, integration, and project structure._
 
+
 ---
 
 📁 Repositorio mantenido por [@dorado-ai-devops](https://github.com/dorado-ai-devops)  
