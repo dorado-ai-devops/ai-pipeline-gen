@@ -18,6 +18,7 @@
 
 ## 📦 Estructura del Proyecto
 
+
 ```
 ai-pipeline-gen/
 ├── app.py                  # Microservicio Flask (API /generate)
