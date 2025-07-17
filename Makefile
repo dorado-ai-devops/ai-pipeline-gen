@@ -1,5 +1,5 @@
 IMAGE_NAME     := ai-pipeline-gen
-VERSION        := v1.0.0
+VERSION        := v1.0.1
 REGISTRY       := localhost:5000
 HELM_VALUES    := ../devops-ai-lab/manifests/helm-pipeline-gen/values.yaml
 ARGO_APP_NAME  := pipeline-gen
